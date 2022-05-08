@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinekscaria
 - 👀 I’m interested in telecom, software, automations, digital transformations, data science, AI and ML
-- 🌱 I’m currently learning planning and desiging at Vodafone Idea Limited
+- 🌱 I’m currently learning telecom, software, automations, digital transformations, data science, AI and ML
 - 💞️ I’m looking to collaborate on software and telecom
 - 📫 How to reach me shinekscaria@gmail.com
 
